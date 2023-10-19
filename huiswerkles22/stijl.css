@@ -1,0 +1,18 @@
+header {
+        min-height: 200px;
+        background-color: blue;
+        color: white;
+        padding-top: 20px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+body    {
+        color: white;
+        }  
+footer  {background-color: blue;
+        clear: left;
+         min-height: 200px; width: auto;
+         padding: 40px;
+        }
+p       {
+         color: white;
+        }
